@@ -29,15 +29,15 @@ create table Customer(
 
 
 create table Order_info(
-   order_id number(15) NOT NULL PRIMARY KEY,
-   order_date date NOT NULL,
-   customer_id number(15) NOT NULL
+    order_id number(15) NOT NULL PRIMARY KEY,
+    order_date date NOT NULL,
+    customer_id number(15) NOT NULL
 );
 
 
 create table Payment(
     payment_id number(15) NOT NULL PRIMARY KEY,
-	payment_method varchar(20) NOT NULL,
+    payment_method varchar(20) NOT NULL,
     amount number(8,2) NOT NULL,
     order_id number(15) NOT NULL
 );
@@ -50,7 +50,7 @@ create table Product(
     product_size varchar(2) NOT NULL,
     product_name varchar(30) NOT NULL,
     product_description varchar(500) NOT NULL,
-	discount number(2),
+    discount number(2),
     order_id number(15) NOT NULL
 );
 
