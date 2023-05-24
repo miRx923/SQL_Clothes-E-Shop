@@ -51,15 +51,15 @@ product | product_id <-> category | category_id<br>
 Please let me know if you have any questions or need any clarification."
 
 ## Filling the tables
-&emsp;&emsp; Note: You can also ask for guidance in which order to fill in tables.
+&emsp;&emsp; <b>Note:</b> You can also ask for guidance in which order to fill in tables.
   
 # Entity Relationship  Diagram
 Here you can see the Entity Relationship Diagram of the database:
 
-![--> There should be Entity Relationship Diagram <--](diagrams/ERD - Clothes-E-Shop.png)
+![--> There should be Entity Relationship Diagram <--](/diagrams/ERD - Clothes-E-Shop.png)
 
 
 # Relationship  Diagram
 Here you can see the Relationship Diagram of the database:
 
-![--> There should be Relationship Diagram <--](diagrams/RD - Clothes-E-Shop.png)
+![--> There should be Relationship Diagram <--](/diagrams/RD - Clothes-E-Shop.png)
