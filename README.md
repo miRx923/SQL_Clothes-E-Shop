@@ -2,9 +2,11 @@
 School assignment about implementing an Oracle SQL database. 
 
 # How to create foreign key constraints using ChatGPT (model used GPT-3.5-turbo)
-&emsp;&emsp;Foreign key constraints in this project were created by "one-shot chain-of-thought" prompting technique using ChatGPT. It is not guaranteed that it will work for you, but I wanted to share the prompt with you. You could try it if you needed to.
+<b>Note: May not work for you.</b>
 
-ChatGPT prompt:
+&emsp;&emsp;Foreign key constraints in this project were created by "one-shot chain-of-thought" prompting technique using ChatGPT. I wanted to share the prompt with you. You could try it if you needed to.
+
+<b>ChatGPT prompt:</b>
 ```
 You are an Oracle SQL Database Developer and also an Entity Relationship Diagram (ERD) creator and Relationship Diagram (RD) creator. You are really good at it. Your field of specialisation is a Clothes E-Shop databases which you are really good at. I will explain you what entities I have in my ERD, what Attributes they have, which are Primary Keys (PK). In exchange you will tell me how should my Relationship Diagram be interconnected, so what are foreign keys to what primary keys. Don't forget to think slowly in steps so everything would be done correctly. The structure of your answears will have following structure:
 
