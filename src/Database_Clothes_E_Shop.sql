@@ -228,7 +228,7 @@ SELECT * FROM newest_order;
 
 /**
  * Nested select
- * Tento pohlad ukaze id zakaznikov, ich meno a email ak spravili objednavku
+ * This view shows customer IDs, their names and emails if they made an order
  */
 CREATE OR REPLACE VIEW customers_that_made_order AS
 SELECT customer_id, first_name, last_name, email FROM Customer
