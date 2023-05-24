@@ -56,10 +56,10 @@ Please let me know if you have any questions or need any clarification."
 # Entity Relationship  Diagram
 Here you can see the Entity Relationship Diagram of the database:
 
-![--> There should be Entity Relationship Diagram <--](/diagrams/ERD - Clothes-E-Shop.png)
+![--> There should be Entity Relationship Diagram <--](/diagrams/ERD%20-%20Clothes-E-Shop.png)
 
 
 # Relationship  Diagram
 Here you can see the Relationship Diagram of the database:
 
-![--> There should be Relationship Diagram <--](/diagrams/RD - Clothes-E-Shop.png)
+![--> There should be Relationship Diagram <--](/diagrams/RD%20-%20Clothes-E-Shop.png)
